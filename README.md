@@ -1,4 +1,5 @@
 # AUTHOR: JOE FONSECA, Business Intelligence Professional avid Data Scientist in the training
+# LINKEDIN PROFILE: https://www.linkedin.com/in/joe-fonseca-4846471/
 # 3/1/17
 
 
